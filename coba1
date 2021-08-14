@@ -1,9 +1,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5GdSR9/Polish-20200909-113120753.png"group-title=" Cahaya IPTV", Guyub Rukun
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5GdSR9/Polish-20200909-113120753.png"group-title=" Cahaya IPTV", Guyub Rukun by G-BOX
 https://www.dropbox.com/s/qn31i8kn4vesqu1/Cahaya%20TV%20%281%29.mov?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VCvNnC5/IMG-20210427-212645-774.png" group-title="Cahaya IPTV", JANGAN LUPA BAHAGIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VCvNnC5/IMG-20210427-212645-774.png" group-title="Cahaya IPTV", SEHAT SELALU
 https://www.dropbox.com/s/mqnfwplk3h1anj0/Thanks%20for%20Choosing%21.mp4?dl=0
 
 #EXTINF: -1 tvg-logo="https://bit.ly/3yu8jZy" group-title="Indonesia", TRANS TV
@@ -169,7 +169,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
  FOX & HBO /////
 
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_(bein).png", FOX MOVIES
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
