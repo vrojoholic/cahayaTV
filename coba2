@@ -157,6 +157,7 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sports", TV Champion 3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62286
 http://ip.mooniptv.cz:80/1564996702/4897034110/167937?
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports ",Bein Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
@@ -169,8 +170,8 @@ http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="Erz.AstroArena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" tvg-id="Erz.AstroArena" tvg-name"Champions TV 2" group-title="Sports", ASTRO Arena
-http://185.180.221.194:8278/streams/d/A
+#EXTINF:-1 tvg-id="Erz.AstroArena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" tvg-id="Erz.AstroAwani" tvg-name"Champions TV 2" group-title="Sports", ASTRO Arena
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports" tvg-id="FOXSports1.my" tvg-name"Fox Sport 1 ",fox sport 1
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="Sports",fox sport 2
@@ -184,16 +185,13 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:0 tvg-id="Golf.es" group-title="Sports ",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
-http://topwin-tv.my.id/2/master.m3u8?id=nba
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Sports",eGG TV
-http://topwin-tv.my.id/2/master.m3u8?id=egg
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+http://ip.mooniptv.cz:80/1564996702/4897034110/163913
 
 ==================================================Movie===========================================================
 
 #EXTINF:-1 tvg-language="id" tvg-id="Erz.hbo" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU", HBO
 http://eroz.hi2.ro/iptv/movies/hbo.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbosig" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU", HBO Signature
 http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbohits" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU",HBO Hits
@@ -203,17 +201,19 @@ http://eroz.hi2.ro/iptv/movies/hbo_fam.m3u8
 #EXTINF:-1 tvg-id="Erz.cinemax" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU", HBO CINEMAX
 http://eroz.hi2.ro/iptv/movies/cinemax.m3u8
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.redhbo" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU", RED HBO
-http://eroz.hi2.ro/iptv/movies/hbo_red.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" group-title="Movies", FOX
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movies", FOX ACTION MOVIES
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxlife" tvg-language="ind" tvg-id="foxlife" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU",FOX LIFE
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxmovies" tvg-language="ind" tvg-id="foxmovies" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU",FOX Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-language="ind" tvg-id="Erz.foxfamilymovies" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU",FOX FAMILY Movies
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62171
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies ID" tvg-logo="" group-title="Indonesia",Fox Family Movies ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62253
+#EXTINF:-1 tvg-id="" tvg-name="Fox ID" tvg-logo="" group-title="Indonesia",Fox ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62255
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life ID" tvg-logo="" group-title="Indonesia",Fox Life ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62252
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action ID" tvg-logo="" group-title="Indonesia",Fox Movies Action ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62250
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies ID" tvg-logo="" group-title="Indonesia",Fox Movies ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62251
+#EXTINF:-1 tvg-id="" tvg-name="Fox News ID" tvg-logo="" group-title="Indonesia",Fox News ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62249
 #EXTINF:-1 tvg-id="Erz.WB" tvg-id="zbioskop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Movies", WarnerBros Tv
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" group-title="Movies", HITS
@@ -466,22 +466,64 @@ http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 
 =======================================================Sport Alternative=======================================================================================
 
-#EXTINF:-1 tvg-id="Erz.bein1en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png" group-title="Sports", beIN Sport 1 EN
+#EXTINF:-1 tvg-id="" tvg-name="########## VIP ##########" tvg-logo="" group-title="VIP",########## VIP ##########
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8092
+#EXTINF:-1 tvg-id="MySports CH" tvg-name="MySports FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysportshd.png" group-title="Switzerland",MySports FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8081
+#EXTINF:-1 tvg-id="MySports 1 CH" tvg-name="MySports 1 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports1hd.png" group-title="Switzerland",MySports 1 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8080
+#EXTINF:-1 tvg-id="MySports 2 CH" tvg-name="MySports 2/S 2 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports2hd.png" group-title="Switzerland",MySports 2/S 2 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8079
+#EXTINF:-1 tvg-id="MySports 3 CH" tvg-name="MySports 3/S 3 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports3hd.png" group-title="Switzerland",MySports 3/S 3 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8078
+#EXTINF:-1 tvg-id="MySports 4 CH" tvg-name="MySports 4/S 4 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports4hd.png" group-title="Switzerland",MySports 4/S 4 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8077
+#EXTINF:-1 tvg-id="MySports 5 CH" tvg-name="MySports 5/S 5 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports5hd.png" group-title="Switzerland",MySports 5/S 5 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8076
+#EXTINF:-1 tvg-id="MySports 6 CH" tvg-name="MySports 6/S 6 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports6hd.png" group-title="Switzerland",MySports 6/S 6 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8075
+#EXTINF:-1 tvg-id="" tvg-name="MySports 7/S 7 FHD CH [Multi-Language]" tvg-logo="" group-title="Switzerland",MySports 7/S 7 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8074
+#EXTINF:-1 tvg-id="" tvg-name="MySports 8/S 8 FHD CH [Multi-Language]" tvg-logo="" group-title="Switzerland",MySports 8/S 8 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8073
+#EXTINF:-1 tvg-id="" tvg-name="MySports 9/S 9 FHD CH [Multi-Language]" tvg-logo="" group-title="Switzerland",MySports 9/S 9 FHD CH [Multi-Language]
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8072
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 TH" tvg-logo="" group-title="Thailand",beIN Sports 1 TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8510
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 TH" tvg-logo="" group-title="Thailand",beIN Sports 2 TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8509
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD TH" tvg-logo="" group-title="Thailand",beIN Sports 2 HD TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8505
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1 HD TH" tvg-logo="" group-title="Thailand",True Premiere Football 1 HD TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8508
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD TH" tvg-logo="" group-title="Thailand",beIN Sports 3 HD TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8504
+#EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Thailand",TrueVision Tennis HD TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 2 TH" tvg-logo="" group-title="Thailand",True Premiere Football 2 TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8685
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 3 HD TH" tvg-logo="" group-title="Thailand",True Premiere Football 3 HD TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8684
+#EXTINF:-1 tvg-id="" tvg-name="MIO FOX SPORTS 3 HD TH" tvg-logo="" group-title="Thailand",MIO FOX SPORTS 3 HD TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8205
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six Sport TH" tvg-logo="" group-title="Thailand",Sony Six Sport TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8682
+#EXTINF:-1 tvg-id="Erz.bein1en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png" group-title="Arab", beIN Sport 1 EN
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.bein2en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="Sports", beIN Sport 2 EN
+#EXTINF:-1 tvg-id="Erz.bein2en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="Arab", beIN Sport 2 EN
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.bein1premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1dNqWYlnw73K9WcBAXWZwC42zInl7UtDXg&usqp=CAU" group-title="Sports", beIN Sport 1 Premium
+#EXTINF:-1 tvg-id="Erz.bein1premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1dNqWYlnw73K9WcBAXWZwC42zInl7UtDXg&usqp=CAU" group-title="Arab", beIN Sport 1 Premium
 http://1.alhawalouh.xyz/live/6161655/index.m3u8?t=neTKDuyxbOKnmD8I9PckZg&e=1622295929
-#EXTINF:-1 tvg-id="Erz.bein2premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQte7c5k0KWWnVT6lSmZPlATN8xFnV1AMSlCw&usqp=CAU" group-title="Sports", beIN Sport 2 Premium
+#EXTINF:-1 tvg-id="Erz.bein2premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQte7c5k0KWWnVT6lSmZPlATN8xFnV1AMSlCw&usqp=CAU" group-title="Arab", beIN Sport 2 Premium
 http://1.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-id="Erz.bein3premiumHD" tvg-logo="https://i.goalzz.com/?i=o/h/1/654/bein-sports-max-1.png" group-title="Sports", beIN Sport Max
+#EXTINF:-1 tvg-id="Erz.bein3premiumHD" tvg-logo="https://i.goalzz.com/?i=o/h/1/654/bein-sports-max-1.png" group-title="Arab", beIN Sport Max
 https://akamai2-me.cdn.booyah.live/hls/113132/66782630.m3u8
-#EXTINF:-1 tvg-id="Erz.beinSXtra" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="Sports", beIN Sport Xtra
+#EXTINF:-1 tvg-id="Erz.beinSXtra" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="Arab", beIN Sport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiw1IpeH1WQsLZdgK7v3iNWliKyHrwBicAQ&usqp=CAU" group-title="Sports",Fox Sports 1 HD
+#EXTINF:-1 tvg-id="Erz.foxsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiw1IpeH1WQsLZdgK7v3iNWliKyHrwBicAQ&usqp=CAU" group-title="English",Fox Sports 1 HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspoFEjvIHYG2qTFU2H3YK5S2Jx7jR9kVujA&usqp=CAU" group-title="Sports",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="Erz.foxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspoFEjvIHYG2qTFU2H3YK5S2Jx7jR9kVujA&usqp=CAU" group-title="English",Fox Sports 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHhHQgpyBz7jlIC9OlF2XPJ81R8aZedvfZg&usqp=CAU" group-title="Sports",Fox Sports 3 HD
+#EXTINF:-1 tvg-id="Erz.foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHhHQgpyBz7jlIC9OlF2XPJ81R8aZedvfZg&usqp=CAU" group-title="English",Fox Sports 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
