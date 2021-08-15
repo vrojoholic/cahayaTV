@@ -81,18 +81,102 @@ http://dituduhmaling.xyz/US33T4/indishopping.m3u8
 
 =======================alternative local==================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kHfbgbw/global-tv.png" group-title="INDONESIA",GLOBAL TV [Vidio]
-#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_480p/index.m3u8
-#https://znjjprwzgeyyp.vidio.com/live/778/master.m3u8
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-778
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwvxnwcQ/mnc.png" group-title="INDONESIA",MNC TV [Vidio]
-#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_480p/index.m3u8
-#https://znjjprwzgeyyp.vidio.com/live/870/master.m3u8
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-870
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJhZ5tQv/rcti.png" group-title="INDONESIA",RCTI [Vidio]
-#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_480p/index.m3u8
-#https://znjjprwzgeyyp.vidio.com/live/665/master.m3u8
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-665
+#EXTINF:-1 tvg-id="" tvg-name="&TV HD ID" tvg-logo="" group-title="Indonesia",&TV HD ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62303
+#EXTINF:-1 tvg-id="" tvg-name="ANTV ID" tvg-logo="" group-title="Indonesia",ANTV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62297
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV ID" tvg-logo="" group-title="Indonesia",Bali TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62291
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu ID" tvg-logo="" group-title="Indonesia",Berita Satu ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62284
+#EXTINF:-1 tvg-id="" tvg-name="Besmart ID" tvg-logo="" group-title="Indonesia",Besmart ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62283
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg ID" tvg-logo="" group-title="Indonesia",Bloomberg ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62282
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang 1 ID" tvg-logo="" group-title="Indonesia",Boomerang 1 ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62281
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ID" tvg-logo="" group-title="Indonesia",CNBC ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62273
+#EXTINF:-1 tvg-id="" tvg-name="CNN ID" tvg-logo="" group-title="Indonesia",CNN ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62272
+#EXTINF:-1 tvg-id="" tvg-name="Daai TV ID" tvg-logo="" group-title="Indonesia",Daai TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62269
+#EXTINF:-1 tvg-id="" tvg-name="Drama Channel ID" tvg-logo="" group-title="Indonesia",Drama Channel ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62263
+#EXTINF:-1 tvg-id="" tvg-name="Padang TV ID" tvg-logo="" group-title="Indonesia",Padang TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62261
+#EXTINF:-1 tvg-id="" tvg-name="EWTN ID" tvg-logo="" group-title="Indonesia",EWTN ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62259
+#EXTINF:-1 tvg-id="" tvg-name="FMN ID" tvg-logo="" group-title="Indonesia",FMN ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62257
+#EXTINF:-1 tvg-id="" tvg-name="GTV ID" tvg-logo="" group-title="Indonesia",GTV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62243
+#EXTINF:-1 tvg-id="" tvg-name="Hidayah ID" tvg-logo="" group-title="Indonesia",Hidayah ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62241
+#EXTINF:-1 tvg-id="" tvg-name="IDX ID" tvg-logo="" group-title="Indonesia",IDX ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62237
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar ID" tvg-logo="" group-title="Indonesia",Indosiar ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62236
+#EXTINF:-1 tvg-id="" tvg-name="Infotainment ID" tvg-logo="" group-title="Indonesia",Infotainment ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62234
+#EXTINF:-1 tvg-id="" tvg-name="JTV ID" tvg-logo="" group-title="Indonesia",JTV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62232
+#EXTINF:-1 tvg-id="" tvg-name="Jak TV ID" tvg-logo="" group-title="Indonesia",Jak TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62233
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV 1 ID" tvg-logo="" group-title="Indonesia",Kompas TV 1 ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62229
+#EXTINF:-1 tvg-id="" tvg-name="MNC Channel ID" tvg-logo="" group-title="Indonesia",MNC Channel ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62222
+#EXTINF:-1 tvg-id="" tvg-name="MNC Entertainment ID" tvg-logo="" group-title="Indonesia",MNC Entertainment ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62221
+#EXTINF:-1 tvg-id="" tvg-name="MNC News ID" tvg-logo="" group-title="Indonesia",MNC News ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62220
+#EXTINF:-1 tvg-id="" tvg-name="MNC Shop Smart ID" tvg-logo="" group-title="Indonesia",MNC Shop Smart ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62219
+#EXTINF:-1 tvg-id="" tvg-name="MNC Shop Trendy ID" tvg-logo="" group-title="Indonesia",MNC Shop Trendy ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62218
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sports ID" tvg-logo="" group-title="Indonesia",MNC Sports ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62216
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV ID" tvg-logo="" group-title="Indonesia",MNCTV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62214
+#EXTINF:-1 tvg-id="" tvg-name="MYTV ID" tvg-logo="" group-title="Indonesia",MYTV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62211
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV ID" tvg-logo="" group-title="Indonesia",Metro TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62224
+#EXTINF:-1 tvg-id="" tvg-name="NET.1 ID" tvg-logo="" group-title="Indonesia",NET.1 ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62207
+#EXTINF:-1 tvg-id="" tvg-name="RCTI ID" tvg-logo="" group-title="Indonesia",RCTI ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62199
+#EXTINF:-1 tvg-id="" tvg-name="RTV5 Makin Cakep 1 ID" tvg-logo="" group-title="Indonesia",RTV5 Makin Cakep 1 ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62197
+#EXTINF:-1 tvg-id="" tvg-name="tvOne ID" tvg-logo="" group-title="Indonesia",tvOne ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62195
+#EXTINF:-1 tvg-id="" tvg-name="SCTV ID" tvg-logo="" group-title="Indonesia",SCTV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62193
+#EXTINF:-1 tvg-id="" tvg-name="TV One ID" tvg-logo="" group-title="Indonesia",TV One ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62181
+#EXTINF:-1 tvg-id="" tvg-name="TV9 ID" tvg-logo="" group-title="Indonesia",TV9 ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62180
+#EXTINF:-1 tvg-id="" tvg-name="TVRI ID" tvg-logo="" group-title="Indonesia",TVRI ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62177
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia ID" tvg-logo="" group-title="Indonesia",CNN Indonesia ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62163
+#EXTINF:-1 tvg-id="" tvg-name="RCTV ID" tvg-logo="" group-title="Indonesia",RCTV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62159
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV ID" tvg-logo="" group-title="Indonesia",Trans TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62186
+#EXTINF:-1 tvg-id="" tvg-name="Trans7 ID" tvg-logo="" group-title="Indonesia",Trans7 ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62187
+#EXTINF:-1 tvg-id="" tvg-name="Wesal TV ID" tvg-logo="" group-title="Indonesia",Wesal TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62185
+#EXTINF:-1 tvg-id="" tvg-name="V Channel ID" tvg-logo="" group-title="Indonesia",V Channel ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62144
+#EXTINF:-1 tvg-id="" tvg-name="iNews ID" tvg-logo="" group-title="Indonesia",iNews ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62235
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET ID" tvg-logo="" group-title="Indonesia",RRI NET ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/78282
+#EXTINF:-1 tvg-id="" tvg-name="TEGAR TV ID" tvg-logo="" group-title="Indonesia",TEGAR TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/78290
 
 ===========berita lokal ===================================
 
@@ -295,6 +379,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
 http://ip.mooniptv.cz:80/1564996702/4897034110/163913
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Sport",Fight Sports ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62258
 
 ==================================================Movie===========================================================
 
@@ -519,7 +605,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:0 tvg-id="ext" group-title="Religi",Muhammadiyah TV
 http://dituduhmaling.xyz/US33T4/muhammadiyahtv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/tawaf.png" group-title="Religi,Religi: U Channel
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/tawaf.png" group-title="Religi" U Channel
 http://dituduhmaling.xyz/US33T4/uchannel.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/mta.png" group-title="Religi",AlJazeera
