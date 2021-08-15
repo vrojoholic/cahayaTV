@@ -98,7 +98,7 @@ http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-665
 
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Berita Lokal",CNN
 http://dituduhmaling.xyz/US33T4/cnnindonesia.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="Berita lokal",INEWS [Vidio]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="Berita Lokal",INEWS [Vidio]
 #https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
 #https://znjjprwzgeyyp.vidio.com/live/5409/master.m3u8
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-5409
@@ -153,9 +153,11 @@ https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/in
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/champions1.png" group-title="Sports",Champions TV 1
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/champions2.png" group-title="Sports",Champions TV 2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 http://mantul.biz.id:8888/212212/212212/11698
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.a309cb58133929acee8c2fd8b9259fc6.SHINTA" tvg-name"[CODAY] Champions TV 3 " group-title="SPORTS",Champions TV 3
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.a309cb58133929acee8c2fd8b9259fc6.SHINTA" tvg-name"[CODAY] Champions TV 3 " group-title="Sport",Champions TV 3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://mantul.biz.id:8888/212212/212212/77
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
