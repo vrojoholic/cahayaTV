@@ -202,17 +202,17 @@ http://eroz.hi2.ro/iptv/movies/hbo_fam.m3u8
 http://eroz.hi2.ro/iptv/movies/cinemax.m3u8
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.redhbo" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU", RED HBO
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62171
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies ID" tvg-logo="" group-title="Indonesia",Fox Family Movies ID
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies ID" tvg-logo="" group-title="Movies",Fox Family Movies ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62253
-#EXTINF:-1 tvg-id="" tvg-name="Fox ID" tvg-logo="" group-title="Indonesia",Fox ID
+#EXTINF:-1 tvg-id="" tvg-name="Fox ID" tvg-logo="" group-title="Movies",Fox ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62255
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life ID" tvg-logo="" group-title="Indonesia",Fox Life ID
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life ID" tvg-logo="" group-title="Movies",Fox Life ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62252
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action ID" tvg-logo="" group-title="Indonesia",Fox Movies Action ID
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action ID" tvg-logo="" group-title="Movies",Fox Movies Action ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62250
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies ID" tvg-logo="" group-title="Indonesia",Fox Movies ID
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies ID" tvg-logo="" group-title="Movies",Fox Movies ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62251
-#EXTINF:-1 tvg-id="" tvg-name="Fox News ID" tvg-logo="" group-title="Indonesia",Fox News ID
+#EXTINF:-1 tvg-id="" tvg-name="Fox News ID" tvg-logo="" group-title="Movies",Fox News ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62249
 #EXTINF:-1 tvg-id="Erz.WB" tvg-id="zbioskop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Movies", WarnerBros Tv
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
@@ -365,10 +365,14 @@ http://topwin-tv.my.id/2/master.m3u8?id=babyfisrt
 http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Kids",Boomerang
 http://topwin-tv.my.id/2/master.m3u8?id=boomerang
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior ID" tvg-logo="" group-title="Kids",Disney Junior ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62266
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Kids",Dunia Anak
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
+#EXTINF:-1 tvg-id="" tvg-name="Nick ID" tvg-logo="" group-title="Kids",Nick ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62202
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Kids", Nick Junior
 http://topwin-tv.my.id/2/master.m3u8?id=nickjr
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon
