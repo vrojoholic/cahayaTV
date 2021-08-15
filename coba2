@@ -488,8 +488,6 @@ http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62202
 http://topwin-tv.my.id/2/master.m3u8?id=nickjr
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon
 http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV ID" tvg-logo="" group-title="Kids",Baby TV ID
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62292
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Kids",Da Vinci Learning
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="Kids",Dreamworks
@@ -641,31 +639,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Erz.foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHhHQgpyBz7jlIC9OlF2XPJ81R8aZedvfZg&usqp=CAU" group-title="Sport Alternative",Fox Sports 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="" group-title="Sport Alternative",ESPN 1
-http://209.145.54.100:25461/116609011/4tm.xyz/121
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="Sport Alternative",ESPN 2
-http://209.145.54.100:25461/116609011/4tm.xyz/193
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="" group-title="Sport Alternative",ESPN 4
-http://209.145.54.100:25461/116609011/4tm.xyz/195
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="" group-title="Sport Alternative",ESPN 5
-http://209.145.54.100:25461/116609011/4tm.xyz/196
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="" group-title="Sport Alternative",ESPN 6
-http://209.145.54.100:25461/116609011/4tm.xyz/197
 
-=======================================================bein low======================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1-LOW" tvg-logo="" group-title="bein+",Bein Sports 1-LOW
-http://209.145.54.100:25461/116609011/4tm.xyz/209
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2-LOW" tvg-logo="" group-title="bein+",Bein Sports 2-LOW
-http://209.145.54.100:25461/116609011/4tm.xyz/210
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3-LOW" tvg-logo="" group-title="bein+",Bein Sports 3-LOW
-http://209.145.54.100:25461/116609011/4tm.xyz/211
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4-LOW" tvg-logo="" group-title="bein+",Bein Sports 4-LOW
-http://209.145.54.100:25461/116609011/4tm.xyz/212
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5-LOW" tvg-logo="" group-title="bein+",Bein Sports 5-LOW
-http://209.145.54.100:25461/116609011/4tm.xyz/213
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7-LOW" tvg-logo="" group-title="bein+",Bein Sports 7-LOW
-http://209.145.54.100:25461/116609011/4tm.xyz/215
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6-LOW" tvg-logo="" group-title="bein+",Bein Sports 6-LOW
-http://209.145.54.100:25461/116609011/4tm.xyz/214
+
+
 
