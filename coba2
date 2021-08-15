@@ -154,12 +154,8 @@ https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/in
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/champions2.png" group-title="Sports",Champions TV 2
 http://gpc.my.id/vidio/champion-tv-2.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=champion2
-http://mantul.biz.id:8888/212212/212212/11698
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.a309cb58133929acee8c2fd8b9259fc6.SHINTA" tvg-name"[CODAY] Champions TV 3 " group-title="Sport",Champions TV 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sports", TV Champion 3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
-http://mantul.biz.id:8888/212212/212212/77
-http://topwin-tv.my.id/2/master.m3u8?id=champion3
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
 http://topwin-tv.my.id/2/master.m3u8?id=bein1
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
