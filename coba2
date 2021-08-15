@@ -291,7 +291,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="Sports",UseeSports 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
-#EXTINF:0 tvg-id="Golf.es" group-title="Sports ",Golf
+#EXTINF:0 tvg-id="Golf.es" group-title="Sports",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
 http://ip.mooniptv.cz:80/1564996702/4897034110/163913
@@ -447,7 +447,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 http://topwin-tv.my.id/2/mast
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Knowledge",Nat Geo Wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet ID" tvg-logo="" group-title="Indonesia",Animal Planet ID
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet ID" tvg-logo="" group-title="Knowledge",Animal Planet ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62299
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Knowledge",Discovery Channel
 http://topwin-tv.my.id/2/master.m3u8?id=disco
@@ -488,7 +488,7 @@ http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62202
 http://topwin-tv.my.id/2/master.m3u8?id=nickjr
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon
 http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV ID" tvg-logo="" group-title="Indonesia",Baby TV ID
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV ID" tvg-logo="" group-title="Kids",Baby TV ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62292
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Kids",Da Vinci Learning
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
