@@ -2,16 +2,16 @@
 
 ===============================Cahaya TV===================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5GdSR9/Polish-20200909-113120753.png"group-title=" Cahaya IPTV", Guyub Rukun by G-BOX
-https://www.dropbox.com/s/qn31i8kn4vesqu1/Cahaya%20TV%20%281%29.mov?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VCvNnC5/IMG-20210427-212645-774.png" group-title="Cahaya IPTV", SEHAT SELALU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5GdSR9/Polish-20200909-113120753.png"group-title="Cahaya IPTV", TV Guyub Rukun by G-BOX
+https://www.dropbox.com/s/nc3olrnt1v05se9/Cahaya%20TV.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VCvNnC5/IMG-20210427-212645-774.png" group-title="Cahaya IPTV", Hanya untuk kalangan sendiri
 https://www.dropbox.com/s/mqnfwplk3h1anj0/Thanks%20for%20Choosing%21.mp4?dl=0
 
 ===============================lokal===================================================================================
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Lokal",Trans 7
+#EXTINF:-1 tvg-logo="https://bit.ly/3yygFQ4" group-title="Lokal",Trans 7
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="Lokal",Trans TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3yu8jZy" group-title="Lokal",Trans TV
 http://dituduhmaling.xyz/US33T4/transtv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fisi53yqz8gk8m9/kisspng-indosiar-television-channel-logo-sctv-ramadhan-logo-5b1079250d6918.1042019615278062450549.png?dl=1" group-title="Lokal",Indosiar
@@ -379,7 +379,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
 http://ip.mooniptv.cz:80/1564996702/4897034110/163913
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Sport",Fight Sports ID
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Sports",Fight Sports ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62258
 
 ==================================================Movie===========================================================
@@ -693,16 +693,10 @@ http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8510
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8509
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 2 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8505
-#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1 HD TH" tvg-logo="" group-title="Sport Alternative",True Premiere Football 1 HD TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8508
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 3 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8504
 #EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Sport Alternative",TrueVision Tennis HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
-#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 2 TH" tvg-logo="" group-title="Sport Alternative",True Premiere Football 2 TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8685
-#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 3 HD TH" tvg-logo="" group-title="Sport Alternative",True Premiere Football 3 HD TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8684
 #EXTINF:-1 tvg-id="" tvg-name="MIO FOX SPORTS 3 HD TH" tvg-logo="" group-title="Sport Alternative",MIO FOX SPORTS 3 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8205
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six Sport TH" tvg-logo="" group-title="Sport Alternative",Sony Six Sport TH
