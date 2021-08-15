@@ -11,10 +11,10 @@ http://topwin-tv.my.id/2/master.m3u8?id=trans7
 http://dituduhmaling.xyz/US33T4/transtv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fisi53yqz8gk8m9/kisspng-indosiar-television-channel-logo-sctv-ramadhan-logo-5b1079250d6918.1042019615278062450549.png?dl=1" group-title="Lokal",Indosiar
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
+http://gpc.my.id:80/vidio/indosiar.m3u8
 https://cdn14jtedge.useetv.com/dass/133/indosiar/manifest_wuseetv.mpd?encp=8evXeGhslcT3SrCi4XdntQ&uid=&expp=1623365442
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="Lokal",SCTV
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 https://cdn14jtedge.useetv.com/dass/133/sctv/manifest_wuseetv.mpd?encp=1nA-HZm8LJfxE5Ybf31AWw&uid=&expp=1623365450
 #EXTINF:0 tvg-id="Metro.pl" group-title="Lokal",Metro TV
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
