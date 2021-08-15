@@ -121,6 +121,115 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://dituduhmaling.xyz/US33T4/useeinfo.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
 
+========================================malaysia==============================================
+
+
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro AOD 311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Prima
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Quan Jia HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro 华丽台 (Astro Wah Lai Toi)
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro 小太阳 (Astro Xiao Tai Yang)
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Astro 欢喜台 (Astro Hua Hee Dai)
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Berita RTM HD
+https://parlimenrakyatmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Berita RTM HD
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Bloomberg TV Asia Live Event (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",National Geographic Wild Asia
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",NTV 7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",RTM Parlimen (Dewan Rakyat) HD
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV Ikim (360p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV Ikim (480p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV Ikim HD
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV Okey HD
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV1 HD
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV2 HD
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Malaysia",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+================================Japan==================================
+
+#EXTINF:-1 tvg-id="ext" group-title="Japan",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Japan",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+
 ================================= live  =======================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="live sport",LIVE 1
@@ -159,7 +268,7 @@ http://gpc.my.id/vidio/champion-tv-3.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62286
 http://ip.mooniptv.cz:80/1564996702/4897034110/167937?
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports ",Bein Sport 2
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1
@@ -176,11 +285,11 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="Sports",fox sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="Sports ",fox sport 3
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="Sports",fox sport 3
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sports ",UseeSports 1
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sports",UseeSports 1
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="Sports ",UseeSports 2
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="Sports",UseeSports 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:0 tvg-id="Golf.es" group-title="Sports ",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
@@ -338,6 +447,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 http://topwin-tv.my.id/2/mast
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Knowledge",Nat Geo Wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet ID" tvg-logo="" group-title="Indonesia",Animal Planet ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62299
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Knowledge",Discovery Channel
 http://topwin-tv.my.id/2/master.m3u8?id=disco
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Knowledge",CGTN Documentary
@@ -377,6 +488,8 @@ http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62202
 http://topwin-tv.my.id/2/master.m3u8?id=nickjr
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon
 http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV ID" tvg-logo="" group-title="Indonesia",Baby TV ID
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62292
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Kids",Da Vinci Learning
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="Kids",Dreamworks
@@ -470,64 +583,62 @@ http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 
 =======================================================Sport Alternative=======================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="########## VIP ##########" tvg-logo="" group-title="VIP",########## VIP ##########
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8092
-#EXTINF:-1 tvg-id="MySports CH" tvg-name="MySports FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysportshd.png" group-title="Switzerland",MySports FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="MySports CH" tvg-name="MySports FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysportshd.png" group-title="Sport Alternative",MySports FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8081
-#EXTINF:-1 tvg-id="MySports 1 CH" tvg-name="MySports 1 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports1hd.png" group-title="Switzerland",MySports 1 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="MySports 1 CH" tvg-name="MySports 1 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports1hd.png" group-title="Sport Alternative",MySports 1 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8080
-#EXTINF:-1 tvg-id="MySports 2 CH" tvg-name="MySports 2/S 2 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports2hd.png" group-title="Switzerland",MySports 2/S 2 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="MySports 2 CH" tvg-name="MySports 2/S 2 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports2hd.png" group-title="Sport Alternative",MySports 2/S 2 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8079
-#EXTINF:-1 tvg-id="MySports 3 CH" tvg-name="MySports 3/S 3 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports3hd.png" group-title="Switzerland",MySports 3/S 3 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="MySports 3 CH" tvg-name="MySports 3/S 3 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports3hd.png" group-title="Sport Alternative",MySports 3/S 3 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8078
-#EXTINF:-1 tvg-id="MySports 4 CH" tvg-name="MySports 4/S 4 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports4hd.png" group-title="Switzerland",MySports 4/S 4 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="MySports 4 CH" tvg-name="MySports 4/S 4 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports4hd.png" group-title="Sport Alternative",MySports 4/S 4 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8077
-#EXTINF:-1 tvg-id="MySports 5 CH" tvg-name="MySports 5/S 5 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports5hd.png" group-title="Switzerland",MySports 5/S 5 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="MySports 5 CH" tvg-name="MySports 5/S 5 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports5hd.png" group-title="Sport Alternative",MySports 5/S 5 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8076
-#EXTINF:-1 tvg-id="MySports 6 CH" tvg-name="MySports 6/S 6 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports6hd.png" group-title="Switzerland",MySports 6/S 6 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="MySports 6 CH" tvg-name="MySports 6/S 6 FHD CH [Multi-Language]" tvg-logo="http://195.154.221.171/picons/mysports6hd.png" group-title="Sport Alternative",MySports 6/S 6 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8075
-#EXTINF:-1 tvg-id="" tvg-name="MySports 7/S 7 FHD CH [Multi-Language]" tvg-logo="" group-title="Switzerland",MySports 7/S 7 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="" tvg-name="MySports 7/S 7 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport Alternative",MySports 7/S 7 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8074
-#EXTINF:-1 tvg-id="" tvg-name="MySports 8/S 8 FHD CH [Multi-Language]" tvg-logo="" group-title="Switzerland",MySports 8/S 8 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="" tvg-name="MySports 8/S 8 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport Alternative",MySports 8/S 8 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8073
-#EXTINF:-1 tvg-id="" tvg-name="MySports 9/S 9 FHD CH [Multi-Language]" tvg-logo="" group-title="Switzerland",MySports 9/S 9 FHD CH [Multi-Language]
+#EXTINF:-1 tvg-id="" tvg-name="MySports 9/S 9 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport Alternative",MySports 9/S 9 FHD CH [Multi-Language]
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8072
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 TH" tvg-logo="" group-title="Thailand",beIN Sports 1 TH
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 1 TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8510
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 TH" tvg-logo="" group-title="Thailand",beIN Sports 2 TH
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 2 TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8509
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD TH" tvg-logo="" group-title="Thailand",beIN Sports 2 HD TH
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 2 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8505
-#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1 HD TH" tvg-logo="" group-title="Thailand",True Premiere Football 1 HD TH
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1 HD TH" tvg-logo="" group-title="Sport Alternative",True Premiere Football 1 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8508
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD TH" tvg-logo="" group-title="Thailand",beIN Sports 3 HD TH
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 3 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8504
-#EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Thailand",TrueVision Tennis HD TH
+#EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Sport Alternative",TrueVision Tennis HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
-#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 2 TH" tvg-logo="" group-title="Thailand",True Premiere Football 2 TH
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 2 TH" tvg-logo="" group-title="Sport Alternative",True Premiere Football 2 TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8685
-#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 3 HD TH" tvg-logo="" group-title="Thailand",True Premiere Football 3 HD TH
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 3 HD TH" tvg-logo="" group-title="Sport Alternative",True Premiere Football 3 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8684
-#EXTINF:-1 tvg-id="" tvg-name="MIO FOX SPORTS 3 HD TH" tvg-logo="" group-title="Thailand",MIO FOX SPORTS 3 HD TH
+#EXTINF:-1 tvg-id="" tvg-name="MIO FOX SPORTS 3 HD TH" tvg-logo="" group-title="Sport Alternative",MIO FOX SPORTS 3 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8205
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six Sport TH" tvg-logo="" group-title="Thailand",Sony Six Sport TH
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six Sport TH" tvg-logo="" group-title="Sport Alternative",Sony Six Sport TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8682
-#EXTINF:-1 tvg-id="Erz.bein1en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png" group-title="Arab", beIN Sport 1 EN
+#EXTINF:-1 tvg-id="Erz.bein1en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png" group-title="Sport Alternative", beIN Sport 1 EN
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.bein2en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="Arab", beIN Sport 2 EN
+#EXTINF:-1 tvg-id="Erz.bein2en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="Sport Alternative", beIN Sport 2 EN
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.bein1premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1dNqWYlnw73K9WcBAXWZwC42zInl7UtDXg&usqp=CAU" group-title="Arab", beIN Sport 1 Premium
+#EXTINF:-1 tvg-id="Erz.bein1premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1dNqWYlnw73K9WcBAXWZwC42zInl7UtDXg&usqp=CAU" group-title="Sport Alternative", beIN Sport 1 Premium
 http://1.alhawalouh.xyz/live/6161655/index.m3u8?t=neTKDuyxbOKnmD8I9PckZg&e=1622295929
-#EXTINF:-1 tvg-id="Erz.bein2premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQte7c5k0KWWnVT6lSmZPlATN8xFnV1AMSlCw&usqp=CAU" group-title="Arab", beIN Sport 2 Premium
+#EXTINF:-1 tvg-id="Erz.bein2premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQte7c5k0KWWnVT6lSmZPlATN8xFnV1AMSlCw&usqp=CAU" group-title="Sport Alternative", beIN Sport 2 Premium
 http://1.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-id="Erz.bein3premiumHD" tvg-logo="https://i.goalzz.com/?i=o/h/1/654/bein-sports-max-1.png" group-title="Arab", beIN Sport Max
+#EXTINF:-1 tvg-id="Erz.bein3premiumHD" tvg-logo="https://i.goalzz.com/?i=o/h/1/654/bein-sports-max-1.png" group-title="Sport Alternative", beIN Sport Max
 https://akamai2-me.cdn.booyah.live/hls/113132/66782630.m3u8
-#EXTINF:-1 tvg-id="Erz.beinSXtra" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="Arab", beIN Sport Xtra
+#EXTINF:-1 tvg-id="Erz.beinSXtra" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="Sport Alternative", beIN Sport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiw1IpeH1WQsLZdgK7v3iNWliKyHrwBicAQ&usqp=CAU" group-title="English",Fox Sports 1 HD
+#EXTINF:-1 tvg-id="Erz.foxsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiw1IpeH1WQsLZdgK7v3iNWliKyHrwBicAQ&usqp=CAU" group-title="Sport Alternative",Fox Sports 1 HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspoFEjvIHYG2qTFU2H3YK5S2Jx7jR9kVujA&usqp=CAU" group-title="English",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="Erz.foxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspoFEjvIHYG2qTFU2H3YK5S2Jx7jR9kVujA&usqp=CAU" group-title="Sport Alternative",Fox Sports 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHhHQgpyBz7jlIC9OlF2XPJ81R8aZedvfZg&usqp=CAU" group-title="English",Fox Sports 3 HD
+#EXTINF:-1 tvg-id="Erz.foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHhHQgpyBz7jlIC9OlF2XPJ81R8aZedvfZg&usqp=CAU" group-title="Sport Alternative",Fox Sports 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
