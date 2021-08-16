@@ -157,8 +157,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 https://streaming.useetv.com/joss/
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV _USEETV" tvg-logo="https://static.epg.best/id/TransTV.id.png" tvg-chno="37" channel-id="37" group-title="alternative local",TransTV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:-1 tvg-id="" tvg-name="Antara _USEETV" tvg-logo="" tvg-chno="38" channel-id="38" group-title="LOKAL",alternative local _USEETV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d210fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-id="EbaLise.tr" tvg-name="Bali TV _USEETV" tvg-logo="https://static.epg.best/tr/EbaLise.tr.png" tvg-chno="39" channel-id="39" group-title="alternative local",Bali TV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu _USEETV" tvg-logo="https://static.epg.best/id/BeritaSatu.id.png" tvg-chno="40" channel-id="40" group-title="alternative local",Berita Satu _USEETV
@@ -499,6 +497,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=kix
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/wakuwaku.png" group-title="Entertainment",Waku Waku Japan
 http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/kplus.png" group-title="Entertainment",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=kplus
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/gem.png" group-title="Entertainment",Sony GEM TV
 http://topwin-tv.my.id/2/master.m3u8?id=sgem
@@ -519,14 +518,18 @@ http://topwin-tv.my.id/2/master.m3u8?id=ctiasia
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cctv4.png" group-title="Entertainment",CCTV4
 http://210.210.155.35:80/session/2f9c2f96-2edf-11eb-9071-b82a72d63267/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Entertainment",NHK World Japan
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/72066
 http://topwin-tv.my.id/2/master.m3u8?id=nhkworld
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/arirang.png" group-title="Entertainment",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=arirang
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/tv5monde.png" group-title="Entertainment",TV5Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby
 http://topwin-tv.my.id/2/master.m3u8?id=tv5monde
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png"  group-title="Entertainment", Entertainment: NHK Premium
 http://topwin-tv.my.id/2/master.m3u8?id=nhkpremium
 #EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=bloomberg
 #EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Formosa
 http://topwin-tv.my.id/2/master.m3u8?id=formosa
@@ -712,6 +715,65 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 =============================================Italy league==========================================
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6455
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6462
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6456
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6457
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6458
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6463
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 4 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6459
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 5 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6852
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 6 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6460
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 7 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6461
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FR ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 FR ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6854
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FR ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 FR ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6855
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FR ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 FR ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6856
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 EN ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 EN ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6857
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 EN ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 EN ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6858
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 EN ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 EN ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6859
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS XTRA 1 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6860
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS XTRA 2 ʰᵈ⁻ᵍ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6861
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS PREMIUM 1 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6668
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS PREMIUM 2 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6669
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS PREMIUM 3 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6670
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6671
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6672
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6673
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 4 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6674
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 5 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6675
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 6 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6676
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 7 ᶠʰᵈ ʰᵉᵛᶜ
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6677
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA" tvg-logo="" group-title="Soccer",beIN SPORTS NBA
+http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/7568
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Milan Channel(juara)
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9551
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Juventus HD
@@ -722,20 +784,6 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/41115
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9094
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Barca TV HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/672
-#EXTINF:0 tvg-id="ext" group-title="Soccer", RAI SPORT
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12341
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport Plus [Multi-Sub]..
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22065
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport+ HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/425
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/41033
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/41138
-#EXTINF:0 tvg-id="ext" group-title="Soccer",Rai Sport HD +
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/424
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport Plus [Multi-Sub]
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22068
 #EXTINF:0 tvg-id="ext" group-title="Soccer",SKY CALCIO 1 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68602
 #EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 1 HD
@@ -772,24 +820,6 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68611
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68612
 #EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 5 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68614
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Dazn Serie AeB Sport 209 HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9190
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sky DAZN One SAT Full HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9191
-#EXTINF:0 tvg-id="ext" group-title="Soccer", DAZN Sport 1HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9189
-#EXTINF:0 tvg-id="ext" group-title="Soccer", DAZN Sport 2HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9187
-#EXTINF:0 tvg-id="ext" group-title="Soccer",DAZN Sport 3HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9186
-#EXTINF:0 tvg-id="ext" group-title="Soccer",SKY DAZN BAR 2 FULL HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51834
-#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY DAZN BAR FULL HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51835
-#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY DAZN BAR HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51836
-#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY DAZN BAR SD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51837
 #EXTINF:0 tvg-id="ext" group-title="Soccer", SPORT TV +   HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9081
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 1 FHD
