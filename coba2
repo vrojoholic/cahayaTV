@@ -157,7 +157,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 https://streaming.useetv.com/joss/
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV _USEETV" tvg-logo="https://static.epg.best/id/TransTV.id.png" tvg-chno="37" channel-id="37" group-title="alternative local",TransTV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:-1 tvg-id="" tvg-name="Antara _USEETV" tvg-logo="" tvg-chno="38" channel-id="38" group-title="LOKAL",Antara _USEETV
+#EXTINF:-1 tvg-id="" tvg-name="Antara _USEETV" tvg-logo="" tvg-chno="38" channel-id="38" group-title="LOKAL",alternative local _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d210fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-id="EbaLise.tr" tvg-name="Bali TV _USEETV" tvg-logo="https://static.epg.best/tr/EbaLise.tr.png" tvg-chno="39" channel-id="39" group-title="alternative local",Bali TV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
@@ -712,121 +712,121 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 =============================================Italy league==========================================
-#EXTINF:-1,|Soccer|, Milan Channel(juara)
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Milan Channel(juara)
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9551
-#EXTINF:-1,|Soccer|, Juventus HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Juventus HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51838
-#EXTINF:-1,|Soccer|, Inter Channel FHD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Inter Channel FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/41115
-#EXTINF:-1,|Soccer|, Real Madrid TV
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Real Madrid TV
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9094
-#EXTINF:-1,|Soccer|, Barca TV HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Barca TV HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/672
-#EXTINF:-1,|Soccer|, RAI SPORT
+#EXTINF:0 tvg-id="ext" group-title="Soccer", RAI SPORT
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12341
-#EXTINF:-1,|Soccer|, Rai Sport Plus [Multi-Sub]..
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport Plus [Multi-Sub]..
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22065
-#EXTINF:-1,|Soccer|, Rai Sport+ HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport+ HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/425
-#EXTINF:-1,|Soccer|, Rai Sport FHD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/41033
-#EXTINF:-1,|Soccer|, Rai Sport HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/41138
-#EXTINF:-1,|Soccer| Rai Sport HD +
+#EXTINF:0 tvg-id="ext" group-title="Soccer",Rai Sport HD +
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/424
-#EXTINF:-1,|Soccer| Rai Sport Plus [Multi-Sub]
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Rai Sport Plus [Multi-Sub]
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22068
-#EXTINF:-1,|Soccer| SKY CALCIO 1 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer",SKY CALCIO 1 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68602
-#EXTINF:-1,|Soccer| SKY CALCIO 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 1 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68603
-#EXTINF:-1,|Soccer| SKY CALCIO 1 SD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 1 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68604
-#EXTINF:-1,|Soccer| SKY CALCIO 2 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer",SKY CALCIO 2 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68605
-#EXTINF:-1,|Soccer| SKY CALCIO 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 2 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68606
-#EXTINF:-1,|Soccer| SKY CALCIO 2 SD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 2 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68607
-#EXTINF:-1,|Soccer| SKY CALCIO 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 3 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68609
-#EXTINF:-1,|Soccer| SKY CALCIO 4 SD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 4 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68613
-#EXTINF:-1,|Soccer| SKY CALCIO 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 5 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68615
-#EXTINF:-1,|Soccer| SKY CALCIO 6 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer",SKY CALCIO 6 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68616
-#EXTINF:-1,|Soccer| SKY CALCIO 6 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 6 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68617
-#EXTINF:-1,|Soccer| SKY CALCIO 7 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 7 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68618
-#EXTINF:-1,|Soccer| SKY CALCIO 7 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 7 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68619
-#EXTINF:-1,|Soccer| SKY CALCIO 3 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 3 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68608
-#EXTINF:-1,|Soccer| SKY CALCIO 3 SD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 3 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68610
-#EXTINF:-1,|Soccer| SKY CALCIO 4 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 4 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68611
-#EXTINF:-1,|Soccer| SKY CALCIO 4 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 4 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68612
-#EXTINF:-1,|Soccer| SKY CALCIO 5 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY CALCIO 5 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68614
-#EXTINF:-1,|Soccer| Dazn Serie AeB Sport 209 HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Dazn Serie AeB Sport 209 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9190
-#EXTINF:-1,|Soccer| Sky DAZN One SAT Full HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sky DAZN One SAT Full HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9191
-#EXTINF:-1,|Soccer| DAZN Sport 1HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", DAZN Sport 1HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9189
-#EXTINF:-1,|Soccer| DAZN Sport 2HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", DAZN Sport 2HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9187
-#EXTINF:-1,|Soccer| DAZN Sport 3HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer",DAZN Sport 3HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9186
-#EXTINF:-1,|Soccer| SKY DAZN BAR 2 FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer",SKY DAZN BAR 2 FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51834
-#EXTINF:-1,|Soccer| SKY DAZN BAR FULL HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY DAZN BAR FULL HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51835
-#EXTINF:-1,|Soccer| SKY DAZN BAR HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY DAZN BAR HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51836
-#EXTINF:-1,|Soccer| SKY DAZN BAR SD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SKY DAZN BAR SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51837
-#EXTINF:-1,|Soccer|SPORT TV +   HD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", SPORT TV +   HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9081
-#EXTINF:-1,|Soccer| Sport TV 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 1 FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9079
-#EXTINF:-1,|Soccer|Sport TV 1
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 1
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9080
-#EXTINF:-1,|Soccer| Sport TV 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 2 FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9077
-#EXTINF:-1,|Soccer| Sport TV 2
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 2
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9078
-#EXTINF:-1,|Soccer|Sport TV 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="Soccer",Sport TV 3 FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9075
-#EXTINF:-1,|Soccer| Sport TV 3
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 3
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9076
-#EXTINF:-1,|Soccer| Sport TV 4
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 4
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9074
-#EXTINF:-1,|Soccer| Sport TV 5
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 5
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9072
-#EXTINF:-1,|Soccer| Eleven Sports 1
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 1
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9129
-#EXTINF:-1,|Soccer| Eleven Sports 2
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 2
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9128
-#EXTINF:-1,|Soccer| Eleven Sports 3
+#EXTINF:0 tvg-id="ext" group-title="Soccer",  Eleven Sports 3
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9127
-#EXTINF:-1,|Soccer| Eleven Sports 4
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 4
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9126
-#EXTINF:-1,|Soccer| Eleven Sports 5
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 5
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9125
-#EXTINF:-1,|Soccer| Eleven Sports 6
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 6
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9124
-#EXTINF:-1,|Soccer| Eurosport
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Eurosport
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9122
-#EXTINF:-1,|Soccer| Eurosport 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Soccer", Eurosport 1 FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9120
-#EXTINF:-1,|Soccer| EUROSPORT 1
+#EXTINF:0 tvg-id="ext" group-title="Soccer", EUROSPORT 1
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9121
-#EXTINF:-1,|Soccer| EUROSPORT 2
+#EXTINF:0 tvg-id="ext" group-title="Soccer", EUROSPORT 2
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9119
 
 
