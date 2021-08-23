@@ -693,40 +693,19 @@ http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 1" tvg-logo="" group-title="Sport Alternative",sport tv 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 2" tvg-logo="" group-title="Sport Alternative",sport tv 2
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 3" tvg-logo="" group-title="Sport Alternative",sport tv 3
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 4" tvg-logo="" group-title="Sport Alternative",sport tv 4
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 5" tvg-logo="" group-title="Sport Alternative",sport tv 5
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 6" tvg-logo="" group-title="Sport Alternative",sport tv 6
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_6_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MIO FOX SPORTS 3 HD TH" tvg-logo="" group-title="Sport Alternative",MIO FOX SPORTS 3 HD TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8205
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six Sport TH" tvg-logo="" group-title="Sport Alternative",Sony Six Sport TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8682
-#EXTINF:-1 tvg-id="Erz.bein1en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png" group-title="Sport Alternative", beIN Sport 1 EN
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.bein2en" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="Sport Alternative", beIN Sport 2 EN
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.bein1premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1dNqWYlnw73K9WcBAXWZwC42zInl7UtDXg&usqp=CAU" group-title="Sport Alternative", beIN Sport 1 Premium
-http://1.alhawalouh.xyz/live/6161655/index.m3u8?t=neTKDuyxbOKnmD8I9PckZg&e=1622295929
-#EXTINF:-1 tvg-id="Erz.bein2premiumHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQte7c5k0KWWnVT6lSmZPlATN8xFnV1AMSlCw&usqp=CAU" group-title="Sport Alternative", beIN Sport 2 Premium
-http://1.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-id="Erz.bein3premiumHD" tvg-logo="https://i.goalzz.com/?i=o/h/1/654/bein-sports-max-1.png" group-title="Sport Alternative", beIN Sport Max
-https://akamai2-me.cdn.booyah.live/hls/113132/66782630.m3u8
-#EXTINF:-1 tvg-id="Erz.beinSXtra" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="Sport Alternative", beIN Sport Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiw1IpeH1WQsLZdgK7v3iNWliKyHrwBicAQ&usqp=CAU" group-title="Sport Alternative",Fox Sports 1 HD
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspoFEjvIHYG2qTFU2H3YK5S2Jx7jR9kVujA&usqp=CAU" group-title="Sport Alternative",Fox Sports 2 HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Erz.foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHhHQgpyBz7jlIC9OlF2XPJ81R8aZedvfZg&usqp=CAU" group-title="Sport Alternative",Fox Sports 3 HD
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
 
 
 =============================================Italy league==========================================
