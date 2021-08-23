@@ -355,10 +355,8 @@ http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Sports", SONY TEN 2
-http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1
-http://iptv.tvmalaysia.cc:80/989898/989898/6707
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190685
 #EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 2
 http://iptv.tvmalaysia.cc:80/989898/989898/6710
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 3
@@ -380,10 +378,11 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:0 tvg-id="Golf.es" group-title="Sports",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
-http://ip.mooniptv.cz:80/1564996702/4897034110/163913
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Sports",Fight Sports ID
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62258
+http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Sports",Fight Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="Sports",WWE Network
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190696
 http://iptv.tvmalaysia.cc:80/989898/989898/6849
 
 ==================================================Movie===========================================================
@@ -539,13 +538,11 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeopeople.png" group-title="Knowledge",Nat Geo People
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Knowledge",Nat Geo Wild
-http://topwin-tv.my.id/2/mast
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Knowledge",Nat Geo Wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet ID" tvg-logo="" group-title="Knowledge",Animal Planet ID
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62299
+http://iptv.tvmalaysia.cc:80/989898/989898/7077
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Knowledge",Discovery Channel
-http://topwin-tv.my.id/2/master.m3u8?id=disco
+http://iptv.tvmalaysia.cc:80/989898/989898/7078
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Knowledge",CGTN Documentary
 http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="Knowledge",Crime Investigation
@@ -579,9 +576,8 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/82
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Kids",Dunia Anak
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
-#EXTINF:-1 tvg-id="" tvg-name="Nick ID" tvg-logo="" group-title="Kids",Nick ID
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62202
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Kids", Nick Junior
+http://iptv.tvmalaysia.cc:80/989898/989898/6813
 http://topwin-tv.my.id/2/master.m3u8?id=nickjr
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon
 http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
@@ -686,10 +682,6 @@ http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True vision 4" tvg-logo="" group-title="Sport Alternative",True vision 4
 http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Sport Alternative",TrueVision Tennis HD TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
-#EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Sport Alternative",TrueVision Tennis HD TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 1" tvg-logo="" group-title="Sport Alternative",sport tv 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 2" tvg-logo="" group-title="Sport Alternative",sport tv 2
