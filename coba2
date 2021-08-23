@@ -2,9 +2,9 @@
 
 ===============================Cahaya TV===================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5GdSR9/Polish-20200909-113120753.png"group-title="Cahaya IPTV", TV Guyub Rukun by G-BOX
+#EXTINF:-1 tvg-logo=""Cahaya IPTV", TV Guyub Rukun by G-BOX
 https://www.dropbox.com/s/nc3olrnt1v05se9/Cahaya%20TV.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VCvNnC5/IMG-20210427-212645-774.png" group-title="Cahaya IPTV", Hanya untuk kalangan sendiri
+#EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", wnuprojo
 https://www.dropbox.com/s/mqnfwplk3h1anj0/Thanks%20for%20Choosing%21.mp4?dl=0
 
 ===============================lokal===================================================================================
@@ -352,8 +352,7 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190154
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="Sports",beIN Sports
 http://iptv.tvmalaysia.cc:80/989898/989898/6749
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/463
-http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
@@ -696,7 +695,30 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 6" tvg-logo="" group-title="Sport Alternative",sport tv 6
 http://77.83.117.60:8888/02_SPORTTV_6_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Sport Alternative",TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Sport Alternative",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Sport Alternative",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Sport Alternative",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Sport Alternative",TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 1
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 2
+http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 7
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 
 
 
