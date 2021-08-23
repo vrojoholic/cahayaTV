@@ -351,6 +351,7 @@ http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://iptv.tvmalaysia.cc:80/989898/989898/6749
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
 http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/463
+http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
@@ -677,16 +678,33 @@ http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 
 =======================================================Sport Alternative=======================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 1 TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8510
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 2 TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8509
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 2 HD TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8505
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD TH" tvg-logo="" group-title="Sport Alternative",beIN Sports 3 HD TH
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8504
+#EXTINF:-1 tvg-id="" tvg-name="True vision 1" tvg-logo="" group-title="Sport Alternative",True vision 1
+http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True vision 2" tvg-logo="" group-title="Sport Alternative",True vision 2
+http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True vision 3" tvg-logo="" group-title="Sport Alternative",True vision 3
+http://77.83.117.60:8888/02_PremierHD3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True vision 4" tvg-logo="" group-title="Sport Alternative",True vision 4
+http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Sport Alternative",TrueVision Tennis HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
+#EXTINF:-1 tvg-id="" tvg-name="TrueVision Tennis HD TH" tvg-logo="" group-title="Sport Alternative",TrueVision Tennis HD TH
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
+#EXTINF:-1 tvg-id="" tvg-name="sport tv 1" tvg-logo="" group-title="Sport Alternative",sport tv 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sport tv 2" tvg-logo="" group-title="Sport Alternative",sport tv 2
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sport tv 3" tvg-logo="" group-title="Sport Alternative",sport tv 3
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sport tv 4" tvg-logo="" group-title="Sport Alternative",sport tv 4
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sport tv 5" tvg-logo="" group-title="Sport Alternative",sport tv 5
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sport tv 6" tvg-logo="" group-title="Sport Alternative",sport tv 6
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MIO FOX SPORTS 3 HD TH" tvg-logo="" group-title="Sport Alternative",MIO FOX SPORTS 3 HD TH
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8205
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six Sport TH" tvg-logo="" group-title="Sport Alternative",Sony Six Sport TH
@@ -713,64 +731,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 =============================================Italy league==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6455
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6462
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 ᴾᴿᴱᴹᴵᵁᴹ ʰᵈᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6456
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6457
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6458
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6463
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 4 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6459
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 5 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6852
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 6 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6460
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 7 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6461
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FR ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 FR ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6854
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FR ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 FR ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6855
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FR ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 FR ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6856
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 EN ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 EN ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6857
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 EN ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 EN ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6858
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 EN ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 EN ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6859
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS XTRA 1 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6860
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 ʰᵈ⁻ᵍ" tvg-logo="" group-title="Soccer",beIN SPORTS XTRA 2 ʰᵈ⁻ᵍ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6861
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS PREMIUM 1 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6668
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS PREMIUM 2 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6669
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS PREMIUM 3 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6670
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 1 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6671
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 2 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6672
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 3 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6673
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 4 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6674
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 5 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6675
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 6 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6676
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 ᶠʰᵈ ʰᵉᵛᶜ" tvg-logo="" group-title="Soccer",beIN SPORTS 7 ᶠʰᵈ ʰᵉᵛᶜ
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/6677
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA" tvg-logo="" group-title="Soccer",beIN SPORTS NBA
-http://51.159.3.15:8082/bouiss.chakir/rPSAfuQYAu/7568
+
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Milan Channel(juara)
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9551
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Juventus HD
