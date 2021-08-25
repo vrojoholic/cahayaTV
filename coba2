@@ -1,7 +1,5 @@
 #EXTM3U
 
-===============================Cahaya TV===================================================================================
-
 #EXTINF:-1 tvg-logo=""Cahaya IPTV", TV Guyub Rukun by G-BOX
 https://www.dropbox.com/s/nc3olrnt1v05se9/Cahaya%20TV.mp4?dl=0
 #EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", wnuprojo
@@ -53,6 +51,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal",JTV
 http://dituduhmaling.xyz/US33T4/jtv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b0fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 tvg-id="Erz.jaktv" tvg logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1a6raLqQsiOK1gu8Jbdaak3FFAeOCiDPQ2g&usqp=CAU" group-title="Lokal",Bayu TV Nganjuk
+http://wms.klikhost.com/bayutv/live/chunklist_w660011005.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="Lokal",TV Edukasi
 http://dituduhmaling.xyz/US33T4/tvedukasi.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d230fb3069a97a8fb9df1d75e6456ecef11
