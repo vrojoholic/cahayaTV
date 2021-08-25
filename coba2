@@ -486,6 +486,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=warner
 http://topwin-tv.my.id/2/master.m3u8?id=blueant
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="Entertainment",Blue ant extreme
 http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/duniagames.png" group-title="Entertainment",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/axn.png" group-title="Entertainment",AXN
 http://topwin-tv.my.id/2/master.m3u8?id=axn
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/chinesedrama.png" group-title="Entertainment",Chinese Drama
@@ -560,31 +562,36 @@ http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="Kids",Animax
 http://topwin-tv.my.id/2/master.m3u8?id=animax
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="Kids",Aniplus
+http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="Kids",My Kidz
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=u-mykids
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="Kids",Baby First
+http://maghum-ott.com:80/fahim9555/280A30559862/71459
 http://topwin-tv.my.id/2/master.m3u8?id=babyfisrt
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/horee.png" group-title="Kids",Horee
 http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Kids",Boomerang
 http://topwin-tv.my.id/2/master.m3u8?id=boomerang
-#EXTINF:0 tvg-id="" tvg-name="Disney Junior ID" tvg-logo="" group-title="Kids",Disney Junior ID
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8262
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/82
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="Kids",  DISNEY JUNIOR ID
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17697
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Kids",Dunia Anak
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Kids", Nick Junior
+http://maghum-ott.com:80/fahim9555/280A30559862/17329
 http://iptv.tvmalaysia.cc:80/989898/989898/6813
 http://topwin-tv.my.id/2/master.m3u8?id=nickjr
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17327
 http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Kids",Da Vinci Learning
+http://live.farrukotv.cc:8080/united15/0ouC8nvWg7/4494.ts
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="Kids",Dreamworks
+http://maghum-ott.com:80/fahim9555/280A30559862/104876
 http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 
 =======================================================Religi===============================================
