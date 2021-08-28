@@ -1,9 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""Cahaya IPTV", TV Guyub Rukun by G-BOX
-https://www.dropbox.com/s/nc3olrnt1v05se9/Cahaya%20TV.mp4?dl=0
-#EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", wnuprojo
-https://www.dropbox.com/s/mqnfwplk3h1anj0/Thanks%20for%20Choosing%21.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", Selalu lakukan
+#EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", update playlist 
+#EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", Pada menu setting
+#EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", 2 hr sekali/akhir pekan
+#EXTINF:-1 tvg-logo="" group-title="Cahaya IPTV", By WnuProjo
+
 
 ===============================lokal===================================================================================
 
@@ -735,7 +737,7 @@ http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Milan Channel(juara)
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9551
+http://stream.tvtap.live:8081/live/it-milantv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Juventus HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51838
 #EXTINF:0 tvg-id="ext" group-title="Soccer", Inter Channel FHD
