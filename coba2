@@ -31,7 +31,7 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mEjfgjUCK9J3fAzCkyXlVMSu0myMSS4F0Q&usqp=CAU",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI Nasional
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU",MNCTV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
