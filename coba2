@@ -62,14 +62,50 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3YZ2vUUqdeHQp6OouDur0O4POa9CoZpPCg&usqp=CAU",Channel 4U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="Lokal", SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-id="tvedukasi" tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="MAXSTREAM",TV Edukasi
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+
+===========berita lokal ===================================
+
+#EXTINF:0 tvg-id="Metro.pl" group-title="Berita Lokal",Metro TV
+http://gpc.my.id/vidio/metro-tv.m3u8
+http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Berita Lokal",Kompas tv
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Berita Lokal",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Berita Lokal",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Berita Lokal",CNN
+http://dituduhmaling.xyz/US33T4/cnnindonesia.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="Berita Lokal",INEWS [Vidio]
+#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+#https://znjjprwzgeyyp.vidio.com/live/5409/master.m3u8
+http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-5409
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",Insert
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
+https://cdn14jtedge.useetv.com/dass/130/insert_dash/manifest_wuseetv.mpd?encp=w_XZrMVt9Rk7frKA_Tdrlw&uid=&expp=1623365461
+#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",ANTARA TV
+http://dituduhmaling.xyz/US33T4/antara.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d210fb3069a97a8fb9df1d75e6456ecef11
 
 =======================Daerah==================================================================
+
 #EXTINF:-1 tvg-id="Erz.jaktv" tvg logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1a6raLqQsiOK1gu8Jbdaak3FFAeOCiDPQ2g&usqp=CAU" group-title="Daerah",Bayu TV Nganjuk
 http://wms.klikhost.com/bayutv/live/chunklist_w660011005.m3u8
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYz3WBrxrdACZ6vAyIyjiT8kwioZqIqWf0iA&usqp=CAU",BALI TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd?c:eroz_brebes.m3u8
-#EXTINF:-1 group-title="Daerah",Jak TV
-http://eroz84.wap.sh/local/jaktv.m3u8
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Daerah",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://pbs.twimg.com/profile_images/517173740115746817/jlAC5IDO_400x400.jpeg",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://pbs.twimg.com/profile_images/994763497220128768/P-q5fBwP_400x400.jpg",TATV SOLO
@@ -78,10 +114,56 @@ http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8?inn=eroz_brebes.m3
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Daerah" tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 group-title="Daerah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDluVql5BzbC8k2vU-B94_COPnH3O7kL6wRQ&usqp=CAU",Riau TV
-http://122.248.43.138:1935/ch11/myStream/index.m3u8
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSq6TDYNwzkMH_PdwLQ9TJoTLL35Z_aGU3gA&usqp=CAU",RCTV Cirebon
 http://122.248.43.138:1935/ch23/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="Daerah",BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYiZew0.png" group-title="Daerah",BeTV
+http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/chunklist_w1794621549.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="Daerah",BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/305Uxpi.png" group-title="Daerah",Cahaya Banten TV
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBWVBVD/CITRA-TV.png" group-title="Daerah",Citra TV
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png" group-title="Daerah",DESA TV
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQsDnNN/DUTA-TV.png" group-title="Daerah",DUTA TV
+http://thepwfamily.com/stream/dutatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rSJNNsg/FAJAR-TV.png" group-title="Daerah",Fajar tv
+http://122.248.43.138:1935/ch27/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmBgimx.png" group-title="Daerah",Gemilang TV
+https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png" group-title="Daerah",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/DySfXFhR/JAWAPOS-TV.png" group-title="Daerah",JawaPostv
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/sDbjP8Dx/JEK-TV.png" group-title="Daerah",JekTv Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="Daerah",Lombok TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png" group-title="Daerah",PADANG TV
+http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRXw8KJK/PAL-TV.png" group-title="Daerah",PAL TV
+https://5d63d49f772ce.streamlock.net/paltv/rtmp.stream_360p/chunklist_w1008809263.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png" group-title="Daerah",PKTV Bontang
+rtmp://wowza60.indostreamserver.com:1935/pktv/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png" group-title="Daerah",PRIMA TV
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="Daerah",RB TV
+https://5d63d49f772ce.streamlock.net/rbtv/rtmp.stream_360p/chunklist_w738345439.m3u8
+z#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="Daerah",Riau TV
+http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="Daerah",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png" group-title="Daerah",SIMPANG 5 TV
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="Daerah",SMTV Sumedang
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNkGFjI.png" group-title="Daerah",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title="Daerah",TVTPI
+http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
 
 ==================================================TV Nasional==============================
 
@@ -226,39 +308,6 @@ https://cdn14jtedge.useetv.com/dass/130/insert_dash/manifest_wuseetv.mpd?encp=w_
 #EXTINF:-1 tvg-id="" tvg-name="Nusantara TV _USEETV" tvg-logo="" tvg-chno="46" channel-id="46" group-title="alternative local",Nusantara TV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 
-===========berita lokal ===================================
-
-#EXTINF:0 tvg-id="Metro.pl" group-title="Berita Lokal",Metro TV
-http://gpc.my.id/vidio/metro-tv.m3u8
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Berita Lokal",Berita Satu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Berita Lokal",Berita Satu World
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Berita Lokal",CNN
-http://dituduhmaling.xyz/US33T4/cnnindonesia.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="Berita Lokal",INEWS [Vidio]
-#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
-#https://znjjprwzgeyyp.vidio.com/live/5409/master.m3u8
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-5409
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",Berita Satu
-http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Berita Lokal",Kompas tv
-http://dituduhmaling.xyz/US33T4/kompastv.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",JITV
-http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",Insert
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
-https://cdn14jtedge.useetv.com/dass/130/insert_dash/manifest_wuseetv.mpd?encp=w_XZrMVt9Rk7frKA_Tdrlw&uid=&expp=1623365461
-#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",ANTARA TV
-http://dituduhmaling.xyz/US33T4/antara.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d210fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:0 tvg-id="ext" group-title="Berita Lokal",Ruang Terampil
-http://dituduhmaling.xyz/US33T4/useeinfo.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
 
 ========================================malaysia==============================================
 
@@ -631,6 +680,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 =======================================================Religi===============================================
 
 #EXTINF:0 tvg-id="ext" group-title="Religi",Rodja TV
+http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
 http://dituduhmaling.xyz/US33T4/rodjatv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:0 tvg-id="ext" group-title="Religi",Tawaf TV
@@ -769,62 +819,131 @@ http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 7
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-
-
-
-
-
-=============================================Italy league==========================================
-
-
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Milan Channel(juara)
+#EXTINF:0 tvg-id="ext" group-title="Sport Alternative", Milan Channel(juara)
 http://stream.tvtap.live:8081/live/it-milantv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Juventus HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/51838
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Inter Channel FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/41115
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Real Madrid TV
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9094
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Barca TV HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/672
-#EXTINF:0 tvg-id="ext" group-title="Soccer", SPORT TV +   HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9081
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 1 FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9079
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 1
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9080
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 2 FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9077
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 2
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9078
-#EXTINF:0 tvg-id="ext" group-title="Soccer",Sport TV 3 FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9075
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 3
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9076
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 4
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9074
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Sport TV 5
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9072
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 1
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9129
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 2
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9128
-#EXTINF:0 tvg-id="ext" group-title="Soccer",  Eleven Sports 3
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9127
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 4
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9126
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 5
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9125
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Eleven Sports 6
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9124
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Eurosport
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9122
-#EXTINF:0 tvg-id="ext" group-title="Soccer", Eurosport 1 FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9120
-#EXTINF:0 tvg-id="ext" group-title="Soccer", EUROSPORT 1
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9121
-#EXTINF:0 tvg-id="ext" group-title="Soccer", EUROSPORT 2
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9119
+
+
+
+===============================================Radio==========================================================
+
+#EXTINF:-1 tvg-logo="" group-title="RADIO", AKSI AM MEDAN
+http://live.radiobethany.com:8152/;
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Alhikmah Banyuwangi
+http://158.69.119.235:8164/stream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHdNWYt/ardanfm.png" group-title="RADIO", Ardan
+http://listento.ardanradio.com:1059/;
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Argososro 93.2 FM
+http://jkt.jogjastreamers.com:8000/sasstereo?s=641305233721602
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Bass FM 93.2 Salatiga
+http://live.bassfm.id/
+#EXTINF:-1 tvg-logo="" group-title="RADIO", BBMFM
+http://stream.zenolive.com/kchb1gp3a1duv
+#EXTINF:-1 tvg-logo="" group-title="RADIO", BE FM SEMARANG
+http://103.29.212.166:9328/
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Blambangan FM
+http://streaming.blambanganfm.com:8000/blambanganfm.com
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Bintang Tenggara
+https://rcast.live/stream/62831
+#EXTINF:-1 tvg-logo="" group-title="RADIO", bintang tenggara 1
+http://live.sg.radiobintangtenggara.com:9560/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="RADIO", bintang tenggara 2
+http://sg.radiobintangtenggara.com:9560/rbtfm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hMMrSNj/bahana.png" group-title="RADIO", Bahana
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=328347805873e9a9c700591812fb0ec241a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVQsRd0/brava.png" group-title="RADIO", Brava
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=812469e49663025b39e8d25fdaad81a741a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGh8BWT/cakra.png" group-title="RADIO", Cakra
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7gmbM2/cosmo.png" group-title="RADIO", Cosmopolitan
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=ced92d38d8fec10f1da779dfa44f8bbe41a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDP8tZy/dahlia.png" group-title="RADIO", Dahlia
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=a09b68ada5e8b2060f380a53c02cf3d841a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Smc4p9D/deltafm.png" group-title="RADIO", Delta
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=d4a93297083a23cc099f7bd6a862113141a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="" group-title="RADIO", EBS 105.9 FM
+http://202.43.173.188:8100/;
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j3DRdwj/elgangga.png" group-title="RADIO", Elgangga
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=b44182379bf9fae976e6ae5996e13cd841a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pwmgtsx/elmitra.png" group-title="RADIO", Elmitra
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=9eb53b5052d534ea2619ca03b5649af741a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="" group-title="RADIO", EL SHADDAI FM SOLO
+http://shaddai.onlivestreaming.net:9130/live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KKdd9cv/female.png" group-title="RADIO", Female
+http://masima.rastream.com/masima-femaleradio?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Flashback Alternatives
+http://listen.radionomy.com:80/FlashbackAlternatives
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Gerbera Radio - Yesterday's Music Today!
+http://mediacp.shoutcastradio.nl:4226/stream
+#EXTINF:-1 tvg-logo="" group-title="RADIO", GRACE ALONE MINISTRY SURABAYA
+http://u.klikhost.net:8000/gracealone
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Lobo
+http://37.187.90.196:9032/stream
+#EXTINF:-1 tvg-logo="" group-title="RADIO", My Digital Bo
+http://54.39.98.5:8000/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxYkDB1/gajah.png" group-title="RADIO", Gajahmada
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=ac450d10e166657ec8f93a1b65ca1b1441a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RH7RGT/geronimo.png" group-title="RADIO", Geronimo
+http://live2.indostreamserver.com:8018/;
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM3x2PR/hardrockfm.png" group-title="RADIO", Hardrock
+http://stream.radiojar.com:80/7csmg90fuqruv
+#EXTINF:-1 tvg-logo="" group-title="RADIO", HEALING MOVEMENT MINISTRY BOGOR
+http://stream.hmm-radio.net:8002/ogg
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Hospitals Blackburn
+http://109.74.196.76:8312/stream
+#EXTINF:-1 tvg-logo="" group-title="RADIO", ICHTHUS FM SEMARANG
+http://stream.suararadio.com:8000/ichthusfm_stereo
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Jiz 89.5 FM
+http://usa.jogjastreamers.com:8000/jisstereo
+#EXTINF:-1 tvg-logo="" group-title="RADIO", KIDUNG AGUNG FM JAKARTA
+http://u.klikhost.com:7120/;
+#EXTINF:-1 tvg-logo="" group-title="RADIO", KOCK.rocks BiPolar Radio
+http://96.72.4.2:8000/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QkF1bDh/iradio.png" group-title="RADIO", I-Radio
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=c4bfbf68f5d8d0f8b9a0752ca08ea01d41a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yspjdcm/imelda.png" group-title="RADIO", Imelda
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=701d804549a4a23d3cae801dac6c2c7541a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="" group-title="RADIO", MAESTRO FM BANDUNG
+http://maestro.skyline.net.id:10925/radio.maestro
+#EXTINF:-1 tvg-logo="" group-title="RADIO", MAZMUR FM JAKARTA
+http://u.klikhost.com:7118/;
+#EXTINF:-1 tvg-logo="" group-title="RADIO", MARIA MEDAN
+http://dreamsiteradiocp.com:8062/;
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Muslim Jogja
+http://live.radiomuslim.com:80/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5D14ZF/mgt.png" group-title="RADIO", MGT
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=d073bb8d0c47f317dd39de9c9f004e9d41a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-name="NAGASWARA FM RADIOTEMEN" tvg-logo="https://i.imgur.com/YfAaO3g.png" group-title="RADIO",NAGASWARA FM RADIOTEMEN
+http://bogor.nagaswarafm.com:8088/stream
+#EXTINF:-1 tvg-name="NAGASWARA POP" tvg-logo="https://assets.streamtest.in/logo/2857/186_nagaswara-pop.jpg?v=1573926518" group-title="RADIO",NAGASWARA POP
+http://jakarta.nagaswarafm.com:8100/stream
+#EXTINF:-1 tvg-name="NAGASWARA DANCEDHUT" tvg-logo="https://assets.streamtest.in/logo/2858/186_nagaswara-dancedhut.jpg?v=1573926583" group-title="RADIO",NAGASWARA DANCEDHUT
+http://jakarta.nagaswarafm.com:8200/stream
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Nagaswara FM Bogor
+http://bogor.nagaswarafm.com:8088/stream
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RDI 97.1 FM
+http://202.147.199.99:8000/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="RADIO", Retjo Buntung 99.4 FM
+http://45.64.97.82:9940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="RADIO", Prambors
+http://masima.rastream.com/masima-pramborsjakarta?awparams=stationid:masima-pramborsjakarta
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RRI Pro 1 jakarta
+http://streaming.rri.co.id:9025/web-rrijakartapro1.mp3
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RRI World Service
+http://streaming.rri.co.id:9125/web-voi.mp3
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RRI PRO 5 jakarta
+http://streaming.rri.co.id:9014/kbrn.mp3
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RRI JEMBER
+https://cdnjemberpro2.rri.co.id/web-rrijemberpro2.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Fyr1Tm/shusi.png" group-title="RADIO", Sushi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=e7d6e2e80f0955c01f3e043ee79abbb641a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XXHn4J/swaragama.png" group-title="RADIO", Swaragama
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=1f4183315762e30ea441d3caef5e64ad41a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1pzdJk/swara-smarang.png" group-title="RADIO", Swara Semarang
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=f82798ec8909d23e55679ee26bb2643741a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxSrPHd/trax.png" group-title="RADIO", Trax
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=e143c01e314f7b950daca31188cb5d0f41a474e7edc50efff0a6205bcf0d6a77
+#EXTINF:-1 tvg-logo="" group-title="RADIO", V Radio
+http://202.147.199.100:8000/;stream.nsv
 
 
 
