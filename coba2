@@ -440,6 +440,7 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190154
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="Sports",beIN Sports
 http://iptv.tvmalaysia.cc:80/989898/989898/6749
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563152
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
@@ -468,6 +469,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f22
 #EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="Sports",WWE Network
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190696
 http://iptv.tvmalaysia.cc:80/989898/989898/6849
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Sports",Ufc
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 ==================================================Movie===========================================================
 
@@ -629,6 +632,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 http://iptv.tvmalaysia.cc:80/989898/989898/7077
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Knowledge",Discovery Channel
 http://iptv.tvmalaysia.cc:80/989898/989898/7078
+#EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Knowledge",SSTVlinear
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Knowledge",CGTN Documentary
 http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="Knowledge",Crime Investigation
@@ -775,25 +780,24 @@ http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 
 =======================================================Sport Alternative=======================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="True vision 1" tvg-logo="" group-title="Sport Alternative",True vision 1
-http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True vision 2" tvg-logo="" group-title="Sport Alternative",True vision 2
-http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True vision 3" tvg-logo="" group-title="Sport Alternative",True vision 3
-http://77.83.117.60:8888/02_PremierHD3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True vision 4" tvg-logo="" group-title="Sport Alternative",True vision 4
-http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 1" tvg-logo="" group-title="Sport Alternative",sport tv 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 2" tvg-logo="" group-title="Sport Alternative",sport tv 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 3" tvg-logo="" group-title="Sport Alternative",sport tv 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 4" tvg-logo="" group-title="Sport Alternative",sport tv 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 5" tvg-logo="" group-title="Sport Alternative",sport tv 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 6" tvg-logo="" group-title="Sport Alternative",sport tv 6
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_6_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Sport Alternative",TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -819,6 +823,12 @@ http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",Bein sport 7
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",football1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",football2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="Sport Alternative",football3
+https://95-213-224-179.livesports24.online/football3ua.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport Alternative", Milan Channel(juara)
 http://stream.tvtap.live:8081/live/it-milantv.stream/playlist.m3u8
 
