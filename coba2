@@ -83,7 +83,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Berita Lokal",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Berita Lokal",CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 http://dituduhmaling.xyz/US33T4/cnnindonesia.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Berita Lokal", News: CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="Berita Lokal",INEWS [Vidio]
 #https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
 #https://znjjprwzgeyyp.vidio.com/live/5409/master.m3u8
@@ -629,9 +632,16 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Knowledge",Nat Geo Wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet ID" tvg-logo="" group-title="Knowledge",Animal Planet ID
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065978
 http://iptv.tvmalaysia.cc:80/989898/989898/7077
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Knowledge",Discovery Channel
 http://iptv.tvmalaysia.cc:80/989898/989898/7078
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png",Discovery Asia
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065980
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png",Discovery Science
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065981
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/p18DqB3/love.png",Love Nature
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065971
 #EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Knowledge",SSTVlinear
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Knowledge",CGTN Documentary
@@ -640,6 +650,8 @@ http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Knowledge",History
 http://topwin-tv.my.id/2/master.m3u8?id=history
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png",DMAX
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065973
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/lingua.png" group-title="Knowledge",Lingua
 http://dituduhmaling.xyz/US33T4/lingua.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Knowledge",HGTV
@@ -663,12 +675,14 @@ http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Kids",Boomerang
 http://topwin-tv.my.id/2/master.m3u8?id=boomerang
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="Kids",  DISNEY JUNIOR ID
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066008
 http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17697
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Kids",Dunia Anak
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Kids", Nick Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 http://maghum-ott.com:80/fahim9555/280A30559862/17329
 http://iptv.tvmalaysia.cc:80/989898/989898/6813
 http://topwin-tv.my.id/2/master.m3u8?id=nickjr
@@ -728,12 +742,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="News", Al Jazeera
 http://topwin-tv.my.id/2/master.m3u8?id=u-aljazeera
+#EXTINF:-1 group-title="News",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QCeF2oneS8Dle1mdLog40fz-53kvR1zshw&usqp=CAU",euronews
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="News", News: CNBC Indonesia
-http://topwin-tv.my.id/2/master.m3u8?id=cnnindonesia
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="News", News: CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="News", News Asia
 http://topwin-tv.my.id/2/master.m3u8?id=cnbcasia
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="News", News: CNBC ASIA
@@ -749,20 +761,20 @@ http://topwin-tv.my.id/2/master.m3u8?id=eatgo
 http://topwin-tv.my.id/2/master.m3u8?id=blife
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle",fashion tv Midnight 2
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png",Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png",HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle",fashion tv
 http://dituduhmaling.xyz/US33T4/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle",Insert
 http://dituduhmaling.xyz/US33T4/insert.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle",Ruang Terampil
-http://dituduhmaling.xyz/US33T4/useeinfo.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle",Usee Photo
-http://dituduhmaling.xyz/US33T4/useephoto.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle",Usee Prime
-http://dituduhmaling.xyz/US33T4/useeprime.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle",AFC
 http://topwin-tv.my.id/2/master.m3u8?id=afc
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lifestyle",HGTV
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
 ================================================================music==================================================================
 
@@ -831,8 +843,34 @@ https://95-213-224-179.livesports24.online/fooootball2.m3u8
 https://95-213-224-179.livesports24.online/football3ua.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport Alternative", Milan Channel(juara)
 http://stream.tvtap.live:8081/live/it-milantv.stream/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Sport Alternative",SPORTV FHD¹
+http://liontv.me:80/teggft384783/eudbeu39489/6274
+#EXTINF:-1 group-title="Sport Alternative",SPORTV FHD²
+http://liontv.me:80/teggft384783/eudbeu39489/5475
+#EXTINF:-1 group-title="Sport Alternative",SPORTV HD¹
+http://liontv.me:80/teggft384783/eudbeu39489/4715
+#EXTINF:-1 group-title="Sport Alternative",SPORTV SD¹
+http://liontv.me:80/teggft384783/eudbeu39489/5003
+#EXTINF:-1 group-title="Sport Alternative",SPORTV SD²
+http://liontv.me:80/teggft384783/eudbeu39489/5694
+#EXTINF:-1 group-title=Sport Alternative",SPORTV 2 FHD¹
+http://liontv.me:80/teggft384783/eudbeu39489/6275
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 2 FHD²
+http://liontv.me:80/teggft384783/eudbeu39489/5473
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 2 HD¹
+http://liontv.me:80/teggft384783/eudbeu39489/4713
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 2 HD²
+http://liontv.me:80/teggft384783/eudbeu39489/5689
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 2 SD²
+http://liontv.me:80/teggft384783/eudbeu39489/5690
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 3 FHD¹
+http://liontv.me:80/teggft384783/eudbeu39489/6276
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 3 HD¹
+http://liontv.me:80/teggft384783/eudbeu39489/4714
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 3 SD¹
+http://liontv.me:80/teggft384783/eudbeu39489/5005
+#EXTINF:-1 group-title="Sport Alternative",SPORTV 3 SD²
+http://liontv.me:80/teggft384783/eudbeu39489/5692
 
 ===============================================Radio==========================================================
 
