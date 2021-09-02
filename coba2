@@ -420,30 +420,28 @@ http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 ==================================================Sport===========================================================
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/champions1.png" group-title="Sports",Champions TV 1
-http://topwin-tv.my.id/2/master.m3u8?id=champion1
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/champions2.png" group-title="Sports",Champions TV 2
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sports", TV Champion 3
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions3.png" group-title="Sports", TV Champion 3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=useesport
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sports",UseeSports 1
+http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="Sports",UseeSports 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:0 tvg-id="Golf.es" group-title="Sports",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLnemv7FfstDg5iW85-BQOnyI1bbcvHvhSA&usqp=CAU",TVRI SPORTS
 http://eroz84.wap.sh/local/tvri_sport.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sports",Bein Xtra
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190154
+#EXTINF:-1 group-title="Sports" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png", BEIN XTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_3.m3u8
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="Sports",beIN Sports
 http://iptv.tvmalaysia.cc:80/989898/989898/6749
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 1
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563152
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports",Bein Sport 2
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190685
 #EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 2
@@ -460,7 +458,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="Sports",fox sport 3
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sports",UseeSports 1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Sports",Fight Sports
@@ -475,6 +472,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 tvg-language="id" tvg-id="Erz.hbo" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU", HBO
 http://eroz.hi2.ro/iptv/movies/hbo.m3u8
+https://gratismkctv.net/film/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbosig" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU", HBO Signature
 http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
@@ -490,8 +488,8 @@ http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62171
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62253
 #EXTINF:-1 tvg-id="" tvg-name="Fox ID" tvg-logo="" group-title="Movies",Fox ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62255
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life ID" tvg-logo="" group-title="Movies",Fox Life ID
-http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62252
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life ID" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg" group-title="Movies",Fox Life
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action ID" tvg-logo="" group-title="Movies",Fox Movies Action ID
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62250
 #EXTINF:-1 tvg-id="" tvg-name="Fox Movies ID" tvg-logo="" group-title="Movies",Fox Movies ID
@@ -540,14 +538,6 @@ https://m-c09-j2apps.s.llnwi.net
 http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/zeebioskop.png" group-title="Movies",ZBioskop
 http://topwin-tv.my.id/2/master.m3u8?id=zbioskop
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvn.png" group-title="Movies",TVN
-http://topwin-tv.my.id/2/master.m3u8?id=tvn
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="Movies",TVN MOVIES
-http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/thrill.png" group-title="Movies",Thrill
-http://topwin-tv.my.id/2/master.m3u8?id=thrill-1
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cm.png" group-title="Movies",Celestial Movie
-http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cinemaworld.png" group-title="Movies",Cinema World
 http://topwin-tv.my.id/2/master.m3u8?id=cinemaworld
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/flik.png" group-title="Movies",Flik
@@ -789,6 +779,20 @@ http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 =======================================================Sport Alternative=======================================================================================
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3Tvyxbv/bts1.png" group-title="Sport Alternative",BT SPORT 1
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgVfCn3z/bts2.png" group-title="Sport Alternative",BT SPORT 2
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W43Rn7S9/bts3.png" group-title="Sport Alternative",BT SPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="Sport Alternative",TSN 1
+http://iptv.tvmalaysia.cc:80/737373/737373/8923
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="" group-title="Sport Alternative",TSN 2
+http://iptv.tvmalaysia.cc:80/737373/737373/8924
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="" group-title="Sport Alternative",TSN 4
+http://iptv.tvmalaysia.cc:80/737373/737373/8926
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="" group-title="Sport Alternative",TSN 3
+http://iptv.tvmalaysia.cc:80/737373/737373/8925
 #EXTINF:-1 tvg-id="" tvg-name="sport tv 1" tvg-logo="" group-title="Sport Alternative",sport tv 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
