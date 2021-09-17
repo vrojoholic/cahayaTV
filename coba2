@@ -343,13 +343,10 @@ http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
 ==================================================Sport===========================================================
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions1.png" group-title="Sports",Champions TV 1
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions2.png" group-title="Sports",Champions TV 2
-http://gpc.my.id/vidio/champion-tv-2.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=champion2
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions3.png" group-title="Sports", TV Champion 3
-http://gpc.my.id/vidio/champion-tv-3.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports",ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports",ELEVEN SPORTS 2 HD
+ttp://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sports",UseeSports 1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="Sports",UseeSports 2
@@ -397,7 +394,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 ==================================================Movie===========================================================
 
 #EXTINF:-1 tvg-language="id" tvg-id="Erz.hbo" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU", HBO
-http://eroz.hi2.ro/iptv/movies/hbo.m3u8
 https://gratismkctv.net/film/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbosig" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU", HBO Signature
@@ -587,8 +583,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Kids",Boomerang
 http://topwin-tv.my.id/2/master.m3u8?id=boomerang
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="Kids",  DISNEY JUNIOR ID
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066008
-http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17697
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Kids",Dunia Anak
