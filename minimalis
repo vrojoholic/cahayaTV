@@ -1,1 +1,72 @@
+#EXTM3U
+===============================lokal===================================================================================
+#EXTINF:-1, RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1, MNCTV 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1, GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_shareExt_b3884000_sleng.m3u8
+#EXTINF:-1,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+#EXTINF:-1,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_shareExt_b744100_sleng.m3u8
+#EXTINF:-1,ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1,DIGIONE MAXstream
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+===========berita lokal ===================================
+#EXTINF:-1, INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8
+#EXTINF:-1,CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8
+#EXTINF:-1,BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1,BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1, CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+=======================Daerah==================================================================
+
+
+
+==================================================TV Nasional==============================
+
+
+
+==================================================Sport===========================================================
+
+
+
+==================================================Movie===========================================================
+
+
+
+
+========================================Knowledge==========================================================
+
+
+
+=======================================================kids=====================================================
+
+
+=======================================================Religi===============================================
+
+
+
+==========================================================================world news======================================================
+
+
+=====================================================================lifestyle==============================================================
+
+
+================================================================music==================================================================
+
+
+
 
